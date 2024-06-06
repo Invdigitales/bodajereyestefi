@@ -31,7 +31,7 @@
   .cr-time > span {
       font-size: 15px;
       font-weight: bold;
-      color: #6B928F;
+      color: #94A592;
       
   }
   .cr-desc {
@@ -53,10 +53,10 @@ margin-left: 68%;
 
   .parrafo1{
     text-align: center;
-      font-family: 'Great Vibes', cursive;
-       font-size: 25px;
-       color: #888888;
-       margin-top: -150%;
+    font-family: "Rouge Script", cursiva;
+       font-size: 31px;
+       color: #7b7b7b;
+       margin-top: -330%;
      
   }
   .imagenfamiliar{
@@ -73,24 +73,33 @@ margin-left: 68%;
   
   .parrafo2{
     text-align: center;
-    font-family: 'Great Vibes', cursive;
-     font-size: 27px;
-     color: #6B928F;
-     margin-top: -2%;
+    font-family: "Rouge Script", cursiva;
+       font-size: 40px;
+       color: #7b7b7b;
+       margin-top: 10%;
   }
+  .pelota{
+    width: 20%;
+    margin-left: 40%;
+  }
+
+
   .parrafo3{
     text-align: center;
-    font-family: 'Great Vibes', cursive;
-     font-size: 25px;
-     color: #888888;
+    font-family: "Rouge Script", cursiva;
+       font-size: 30px;
+       color: #7b7b7b;
+       margin-top: 10%;
   }
-  .click1 {
+
+
+  .click{
     padding: 1px 9px;
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 1200;
     border: none;
     color: rgb(255, 255, 255);
-    background-color: #6B928F;
+    background-color: #94A592;
     border-radius: 7px;
     box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
     cursor: pointer;
@@ -99,62 +108,24 @@ margin-left: 68%;
     margin-top: 4%;
     background-image: url(./imagenes/grises.gif);
     background-size: 50%;
-    font-family: 'Dancing Script', cursive;  
+    font-family: "Alegreya", serif; 
   }
   .iglesia{
     width: 20%;
     margin-left: 40%;
   }
  
-  
-  .parrafo04{
-    text-align: center;
-    font-family: 'Dancing Script', cursive; 
-     font-size: 27px;
-     color: #888888;
-     margin-top: -40%;
-     
 
-  }
   
   
   .galeria{
     width: 9%;
   margin-left: 46%;
   }
-  .carousel-inner img{
-    width: 90%;
-    margin-left: 5%;
-    margin-top: 15%;
-  }
+ 
   
-  .cardimg{
-    width: 60%;
-    height: 60%;
-    margin-left: 20%;
-   
-  }
-  
-  .cardtitle{
-    text-align: center;
-    font-family: 'Dancing Script', cursive; 
-     font-size: 27px;
-     color: #888888;
-  }
-  .cardtext{
-    text-align: center;
-    font-family: 'Dancing Script', cursive;
-     font-size: 18px;
-     color: #888888;
-     margin-top: 10%;
-  }
-  .cardtext1{
-    text-align: center;
-    font-family: 'Dancing Script', cursive;
-     font-size: 18px;
-     color: #888888;
-     margin-top: 3%;
-  }
+ 
+
   .mapa{
     width: 80%;
     height: 80%;
@@ -162,12 +133,7 @@ margin-left: 68%;
   margin-top: 5%;
 
   }
-  .hojas{
-    width: 30%;
-    margin-left: 36%;
-    margin-top: -15%;
-  }
-  
+ 
   .btn_btn-primary{
     padding: 1px 9px;
     font-size: 24px;
@@ -185,20 +151,8 @@ margin-left: 68%;
     background-size: 50%;
     font-family: 'Dancing Script', cursive;
   }
-  .fondo2{
-    margin-top: 5%;
-  }
- .main1{
-  margin-top: 50%;
- }
- .parrafo6{
-  text-align: center;
-    font-family: 'Great Vibes', cursive;
-     font-size: 25px;
-     color: #888888;
-    
-     
- }
+  
+
  .whatsap{
   width: 40%;
   margin-left: 30%;
