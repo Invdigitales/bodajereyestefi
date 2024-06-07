@@ -56,7 +56,7 @@ margin-left: 68%;
     font-family: "Rouge Script", cursiva;
        font-size: 31px;
        color: #7b7b7b;
-       margin-top: -330%;
+       margin-top: -690%;
      
   }
   .imagenfamiliar{
@@ -164,19 +164,30 @@ margin-left: 68%;
      color:#6B928F;
     
  }
+ .icono2{
+  text-align: center;
+    font-family:'Times New Roman', Times, serif; 
+     font-size: 18px;
+     color:#6B928F;
+
+ }
+
+ .card{
+margin: 14%;
+ }
  .whatsap2{
   width: 40%;
   margin-left: 30%;
  }
- .sabri{
-  width: 20%;
+ .estefi{
+  width: 33%;
   margin-top: -50%;
-  margin-left: 18%;
+  margin-left: 10%;
  }
- .jon{
-  width: 20%;
+ .jere{
+  width: 33%;
   margin-top: -50%;
-  margin-left: 18%;
+  margin-left: 10%;
  }
  .fondo4{
   margin-top: -15%;
@@ -220,34 +231,36 @@ margin-left: 48%;
 }
  .parrafo_deposito{
   text-align: center;
-  color: #686868;
-  font-size: 25px;
-  font-family: 'Great Vibes', cursive;
+  font-family: "Rouge Script", cursiva;
+     font-size: 30px;
+     color: #7b7b7b;
+     margin-top: 15%;
 
  }
 
- .card_card-body img{
-  margin-left: 20%;
-  background-size: 80%;
-  width: 75%;
-}
+
 .btn_btn-primary2{
   padding: 1px 9px;
-  font-size: 24px;
+  font-size: 22px;
   font-weight: 1200;
   border: none;
   color: rgb(255, 255, 255);
-  background-color: #6B928F;
+  background-color: #94A592;
   border-radius: 7px;
   box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
   cursor: pointer;
-  margin-left: 39%;
+  margin-left: 37%;
   background-size: 120%;
   margin-top: 4%;
   background-image: url(./imagenes/grises.gif);
   background-size: 50%;
-  font-family: 'Dancing Script', cursive;
+  font-family: "Alegreya", serif; 
+ 
 }
+
+
+
+
  .parrafo_esperamos{
   text-align: center;
     font-family: 'Dancing Script', cursive;
