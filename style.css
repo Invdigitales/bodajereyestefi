@@ -70,7 +70,13 @@ margin-left: 68%;
    margin-left: 15%;
    
   }
-  
+  .lineados{
+    color:#6B928F;
+    width: 70%;
+   margin-left: 15%;
+   margin-top: -10%;
+   
+  }
   .parrafo2{
     text-align: center;
     font-family: "Rouge Script", cursiva;
@@ -180,6 +186,7 @@ margin-left: 68%;
     font-family:'Times New Roman', Times, serif; 
      font-size: 18px;
      color:#6B928F;
+  
 
  }
 
@@ -248,7 +255,9 @@ margin-left: 48%;
      margin-top: 15%;
 
  }
-
+.cajafiesta{
+  margin-top: -5%;
+}
 
 .btn_btn-primary2{
   padding: 1px 9px;
@@ -269,7 +278,13 @@ margin-left: 48%;
  
 }
 
-
+.parrafoimportante{
+  text-align: center;
+  font-family: "Rouge Script", cursiva;
+     font-size: 30px;
+     color: #7b7b7b;
+     margin-top: 15%;
+}
 
 
  .parrafo_esperamos{
@@ -277,7 +292,7 @@ margin-left: 48%;
     font-family: "Rouge Script", cursiva;
        font-size: 30px;
        color: #7b7b7b;
-       margin-top: 30%;
+       margin-top: 18%;
   }
  
 
